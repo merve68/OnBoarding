@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "283572954465",
+    "firebase_url": "https://capable-boulder-322607-default-rtdb.firebaseio.com",
+    "project_id": "capable-boulder-322607",
+    "storage_bucket": "capable-boulder-322607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283572954465:android:ef4a9ad704c54c064ad120",
+        "android_client_info": {
+          "package_name": "com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283572954465-89kcgrfkr8rfjp29ft82s1lgk71alepd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3SjMnoRqPwnGNQNlU2W0K-ZVguks9048"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283572954465-89kcgrfkr8rfjp29ft82s1lgk71alepd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283572954465:android:67cfd154943f7b5a4ad120",
+        "android_client_info": {
+          "package_name": "com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283572954465-89kcgrfkr8rfjp29ft82s1lgk71alepd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3SjMnoRqPwnGNQNlU2W0K-ZVguks9048"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283572954465-89kcgrfkr8rfjp29ft82s1lgk71alepd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283572954465:android:e0cf231be0cc5e4c4ad120",
+        "android_client_info": {
+          "package_name": "com.onboarding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283572954465-89kcgrfkr8rfjp29ft82s1lgk71alepd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3SjMnoRqPwnGNQNlU2W0K-ZVguks9048"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283572954465-89kcgrfkr8rfjp29ft82s1lgk71alepd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
